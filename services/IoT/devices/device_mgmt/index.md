@@ -573,7 +573,7 @@ Topic: iotdevice-1/clear/diag/log
 Response format:
 
 ```
-Incoming message from the device:
+Incoming message from the server:
 
 Topic: iotdm-1/response
 {
